@@ -20,6 +20,7 @@
   "homepage": "https://github.com/mjaniak/learning-git-excercise-5#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
     "globstar": "^1.0.0",
     "nu-html-checker": "^0.1.0"
   }
